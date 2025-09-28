@@ -7,4 +7,5 @@ sentencepiece
 sacremoses
 uvicorn
 fastapi
+python-multipart
 https://github.com/explosion/spacy-models/releases/download/pl_core_news_sm-3.5.0/pl_core_news_sm-3.5.0.tar.gz
