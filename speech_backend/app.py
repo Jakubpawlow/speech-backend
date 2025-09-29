@@ -1,7 +1,7 @@
 from fastapi import FastAPI, UploadFile, File
-from speech-backend.whisper_service import transcribe_audio
-from speech-backend.translation_service import translate_text
-from speech-backend.nlp_service import analyze_text
+from speech_backend.whisper_service import transcribe_audio
+from speech_backend.translation_service import translate_text
+from speech_backend.nlp_service import analyze_text
 
 app = FastAPI(title="Speech App Backend")
 
